@@ -11,6 +11,8 @@ sites:
     url: https://chatbot.hovanhoa.net
   - name: voicebot.hovanhoa.net
     url: https://voicebot.hovanhoa.net
+  - name: rss
+    url: https://hovanhoa.github.io/rss
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
