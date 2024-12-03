@@ -4,9 +4,9 @@
     "url": "https://hovanhoa.net",
     "icon": "https://icons.duckduckgo.com/ip3/hovanhoa.net.ico",
     "slug": "hovanhoa-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 960,
     "timeMonth": 960,
     "timeYear": 960,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-03": 0
+    }
   },
   {
     "name": "gallery.hovanhoa.net",
@@ -59,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/voicebot.hovanhoa.net.ico",
     "slug": "voicebot-hovanhoa-net",
     "status": "up",
-    "uptime": "82.87%",
+    "uptime": "84.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.87%",
-    "uptimeMonth": "82.87%",
-    "uptimeYear": "82.87%",
+    "uptimeWeek": "84.88%",
+    "uptimeMonth": "84.88%",
+    "uptimeYear": "84.88%",
     "time": 1505,
     "timeDay": 1733,
     "timeWeek": 1505,
