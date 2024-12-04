@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/hovanhoa.net.ico",
     "slug": "hovanhoa-net",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.59%",
     "uptimeDay": "97.99%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
     "time": 1070,
     "timeDay": 1622,
     "timeWeek": 1070,
@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/voicebot.hovanhoa.net.ico",
     "slug": "voicebot-hovanhoa-net",
     "status": "up",
-    "uptime": "86.59%",
+    "uptime": "87.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.59%",
-    "uptimeMonth": "86.59%",
-    "uptimeYear": "86.59%",
+    "uptimeWeek": "87.35%",
+    "uptimeMonth": "87.35%",
+    "uptimeYear": "87.35%",
     "time": 1548,
     "timeDay": 1761,
     "timeWeek": 1548,
@@ -81,7 +81,7 @@
     "url": "https://hovanhoa.github.io/rss",
     "icon": "https://icons.duckduckgo.com/ip3/hovanhoa.github.io.ico",
     "slug": "rss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -92,6 +92,8 @@
     "timeWeek": 119,
     "timeMonth": 119,
     "timeYear": 119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-04": 0
+    }
   }
 ]
