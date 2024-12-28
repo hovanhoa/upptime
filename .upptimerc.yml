@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: hovanhoa.net
     url: https://hovanhoa.net
+  - name: insight.hovanhoa.net
+    url: https://insight.hovanhoa.net
   - name: gallery.hovanhoa.net
     url: https://gallery.hovanhoa.net
   - name: chatbot.hovanhoa.net
