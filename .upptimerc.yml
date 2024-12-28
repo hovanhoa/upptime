@@ -13,6 +13,8 @@ sites:
     url: https://chatbot.hovanhoa.net
   - name: voicebot.hovanhoa.net
     url: https://voicebot.hovanhoa.net
+  - name: landing page
+    url: https://hovanhoa.github.io
   - name: rss
     url: https://hovanhoa.github.io/rss
 
