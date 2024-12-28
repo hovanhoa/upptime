@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1226,
-    "timeDay": 405,
-    "timeWeek": 1033,
-    "timeMonth": 1226,
-    "timeYear": 1226,
+    "time": 1205,
+    "timeDay": 422,
+    "timeWeek": 969,
+    "timeMonth": 1205,
+    "timeYear": 1205,
     "dailyMinutesDown": {
       "2024-12-03": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 288,
-    "timeWeek": 288,
-    "timeMonth": 288,
-    "timeYear": 288,
+    "time": 229,
+    "timeDay": 229,
+    "timeWeek": 229,
+    "timeMonth": 229,
+    "timeYear": 229,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 172,
-    "timeWeek": 151,
-    "timeMonth": 156,
-    "timeYear": 156,
+    "time": 159,
+    "timeDay": 207,
+    "timeWeek": 165,
+    "timeMonth": 159,
+    "timeYear": 159,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 319,
-    "timeWeek": 306,
-    "timeMonth": 371,
-    "timeYear": 371,
+    "time": 377,
+    "timeDay": 404,
+    "timeWeek": 336,
+    "timeMonth": 377,
+    "timeYear": 377,
     "dailyMinutesDown": {}
   },
   {
@@ -84,15 +84,33 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.88%",
     "uptimeYear": "97.88%",
-    "time": 1449,
-    "timeDay": 1452,
-    "timeWeek": 1228,
-    "timeMonth": 1449,
-    "timeYear": 1449,
+    "time": 1448,
+    "timeDay": 1445,
+    "timeWeek": 1251,
+    "timeMonth": 1448,
+    "timeYear": 1448,
     "dailyMinutesDown": {
       "2024-11-30": 74,
       "2024-11-29": 817
     }
+  },
+  {
+    "name": "landing page",
+    "url": "https://hovanhoa.github.io",
+    "icon": "https://icons.duckduckgo.com/ip3/hovanhoa.github.io.ico",
+    "slug": "landing-page",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 197,
+    "timeDay": 197,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
+    "dailyMinutesDown": {}
   },
   {
     "name": "rss",
@@ -105,11 +123,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 276,
-    "timeWeek": 243,
-    "timeMonth": 235,
-    "timeYear": 235,
+    "time": 240,
+    "timeDay": 316,
+    "timeWeek": 260,
+    "timeMonth": 240,
+    "timeYear": 240,
     "dailyMinutesDown": {}
   }
 ]
