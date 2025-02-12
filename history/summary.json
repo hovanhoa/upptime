@@ -42,10 +42,10 @@
     "url": "https://gallery.hovanhoa.net",
     "icon": "https://icons.duckduckgo.com/ip3/gallery.hovanhoa.net.ico",
     "slug": "gallery-hovanhoa-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
@@ -53,16 +53,18 @@
     "timeWeek": 197,
     "timeMonth": 196,
     "timeYear": 176,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 2
+    }
   },
   {
     "name": "chatbot.hovanhoa.net",
     "url": "https://chatbot.hovanhoa.net",
     "icon": "https://icons.duckduckgo.com/ip3/chatbot.hovanhoa.net.ico",
     "slug": "chatbot-hovanhoa-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +73,9 @@
     "timeWeek": 413,
     "timeMonth": 383,
     "timeYear": 377,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 0
+    }
   },
   {
     "name": "voicebot.hovanhoa.net",
