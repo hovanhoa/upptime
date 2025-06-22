@@ -121,18 +121,20 @@
     "url": "https://hovanhoa.github.io/rss",
     "icon": "https://icons.duckduckgo.com/ip3/hovanhoa.github.io.ico",
     "slug": "rss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 71,
-    "timeWeek": 179,
-    "timeMonth": 241,
-    "timeYear": 250,
-    "dailyMinutesDown": {}
+    "time": 249,
+    "timeDay": 90,
+    "timeWeek": 170,
+    "timeMonth": 236,
+    "timeYear": 249,
+    "dailyMinutesDown": {
+      "2025-06-22": 0
+    }
   },
   {
     "name": "upptime",
