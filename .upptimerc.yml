@@ -15,8 +15,6 @@ sites:
     url: https://voicebot.hovanhoa.net
   - name: landing page
     url: https://hovanhoa.github.io
-  - name: rss
-    url: https://hovanhoa.github.io/rss
   - name: upptime
     url: https://hovanhoa.github.io/upptime
 
