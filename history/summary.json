@@ -13,7 +13,7 @@
     "time": 1328,
     "timeDay": 1610,
     "timeWeek": 1073,
-    "timeMonth": 1132,
+    "timeMonth": 1117,
     "timeYear": 1328,
     "dailyMinutesDown": {
       "2025-07-27": 16,
@@ -35,7 +35,7 @@
     "time": 267,
     "timeDay": 189,
     "timeWeek": 3024,
-    "timeMonth": 828,
+    "timeMonth": 848,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2025-07-27": 16
@@ -46,19 +46,19 @@
     "url": "https://gallery.hovanhoa.net",
     "icon": "https://icons.duckduckgo.com/ip3/gallery.hovanhoa.net.ico",
     "slug": "gallery-hovanhoa-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 172,
-    "timeDay": 64,
+    "timeDay": 88,
     "timeWeek": 147,
-    "timeMonth": 172,
+    "timeMonth": 171,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2025-08-28": 0,
+      "2025-08-28": 6,
       "2025-08-20": 16,
       "2025-08-19": 20,
       "2025-07-27": 16,
@@ -76,11 +76,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 624,
+    "time": 622,
     "timeDay": 876,
     "timeWeek": 1083,
-    "timeMonth": 1022,
-    "timeYear": 624,
+    "timeMonth": 1000,
+    "timeYear": 622,
     "dailyMinutesDown": {
       "2025-07-27": 16
     }
@@ -121,7 +121,7 @@
     "time": 115,
     "timeDay": 62,
     "timeWeek": 95,
-    "timeMonth": 118,
+    "timeMonth": 114,
     "timeYear": 115,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 88,
     "timeDay": 44,
     "timeWeek": 77,
-    "timeMonth": 100,
+    "timeMonth": 102,
     "timeYear": 88,
     "dailyMinutesDown": {}
   }
