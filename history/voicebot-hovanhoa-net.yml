@@ -1,7 +1,7 @@
 url: https://voicebot.hovanhoa.net
-status: up
-code: 200
-responseTime: 1313
-lastUpdated: 2025-08-29T23:10:51.882Z
+status: down
+code: 403
+responseTime: 80
+lastUpdated: 2025-08-30T21:14:29.322Z
 startTime: 2024-11-29T10:22:43.960Z
 generator: Upptime <https://github.com/upptime/upptime>
